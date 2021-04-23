@@ -9,8 +9,8 @@ const {
 	GraphQLNonNull
 } = graphql
 const _ = require('lodash')
-const Book = require('./MongoDBModels/BookDBModel')
-const Author = require('./MongoDBModels/AuthorDBModel')
+const Book = require('../MongoDBModels/BookDBModel')
+const Author = require('../MongoDBModels/AuthorDBModel')
 
 // dummy data
 // const books = [
