@@ -28,7 +28,7 @@ npm start
 
 ```
 
-4) Now you can Open [http://localhost:5000/graphql](http://localhost:5000/graphql) to view it in the browser.
+3) Now you can Open [http://localhost:5000/graphql](http://localhost:5000/graphql) to view it in the browser.
 
 Happy Hacking!
 
