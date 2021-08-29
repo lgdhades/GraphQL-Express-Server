@@ -13,7 +13,7 @@
 
 #api_keys
 .env
-
+/dev.env
 # misc
 .DS_Store
 .env.local
