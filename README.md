@@ -1,7 +1,19 @@
-# GraphQL-Express-Server
+<h1 align="center">
+  <img title="Book Library" src="https://github.com/AhmedTohamy01/Books-Library-GraphQL/blob/main/public/img1.jpg" alt="React + GraphQL + Apollo" width="1000" />
+  <br>
+   GraphQL Books Library Built Using React.JS, GraphQL, Apollo Client, Node.JS, Express.JS and MongoDB.
+</h1>
 
+<p><font size="3">
+  This is a Full Stack Project built using <strong><em>React</em></strong>, <strong><em>Apollo</em></strong>, <strong><em>Material-UI</em></strong>, <strong><em>Styled-Components</em></strong>, <strong><em>Styled-Icons</em></strong> in frontend and using <strong><em>GraphQL</em></strong>, <strong><em>Express</em></strong> & <strong><em>MongoDB</em></strong> in backend.
+  <br><br> 
+	 This project consist of 2 repos, this repo is the backend repo and here is the link of the frontend repo: https://github.com/AhmedTohamy01/Books-Library-GraphQL
+  <br><br> 
+The project is a Book Library where you can explore available books and know a detailed information about each book, you can also add a new book or a new author.
+  <br><br> 
 
-This is the backend repo of this project https://github.com/AhmedTohamy01/Books-Library-GraphQL 
+</p>
+
 
 # How To Use
 
